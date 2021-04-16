@@ -32,6 +32,6 @@ touch /tmp/keepalive
 * [tmate.io](https://tmate.io)
 * Max Schmitt's [action-tmate](https://github.com/mxschmitt/action-tmate)
 
-### License
-
-The action and associated scripts and documentation in this project are released under the MIT License.
+＃＃＃ 执照
+ 
+该项目中的动作以及相关的脚本和文档是根据MIT许可证发布的。
